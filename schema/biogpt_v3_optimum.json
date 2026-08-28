@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "biogpt-v3-optimum",
+  "title": "BioGPT Protocol Schema v3 Optimum",
+  "description": "Unified schema for BioGPT training data. Every protocol JSON must validate against this.",
+  "type": "object",
+  "required": ["_schema", "messages", "metadata"],
+
+  "properties": {
+
+    "_schema": {
+      "type": "string",
+      "const": "biogpt-v3-optimum"
+    },
+
+    "messages": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": [
+        {
+          "type": "object",
+          "required": ["role", "content"],
+          "properties": {
+            "role":    { "type": "string", "const": "system" },
+            "content": { "type": "string", "minLength": 10 }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["role", "content"],
+          "properties": {
+            "role":    { "type": "string", "const": "user" },
+            "content": { "type": "string", "minLength": 50 }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["role", "content"],
+          "properties": {
+            "role":    { "type": "string", "const": "assistant" },
+            "content": { "type": "string", "minLength": 10 }
+          }
+        }
+      ]
+    },
+
+    "metadata": {
+      "type": "object",
+      "required": ["identity", "source", "bioscript", "steps", "cfg", "ir", "validation", "evidence"],
+
+      "properties": {
+
+        "identity": {
+          "type": "object",
+          "required": ["protocol_id", "protocol_name", "category", "adaptation_status"],
+          "properties": {
+            "protocol_id":       { "type": "string" },
+            "protocol_name":     { "type": "string" },
+            "bs_file":           { "type": ["string", "null"] },
+            "ir_file":           { "type": ["string", "null"] },
+            "dot_file":          { "type": ["string", "null"] },
+            "authored_by":       { "type": ["string", "null"] },
+            "category": {
+              "type": "string",
+              "enum": [
+                "environmental_sensing_assay",
+                "clinical_diagnostic",
+                "nucleic_acid_amplification",
+                "immunoassay",
+                "sample_preparation",
+                "cell_based",
+                "synthetic_biology"
+              ]
+            },
+            "adaptation_status": {
+              "type": "string",
+              "enum": ["adapted_authored", "directly_translated", "synthetic"]
+            }
+          }
+        },
+
+        "source": {
+          "type": "object",
+          "properties": {
+            "title":     { "type": ["string", "null"] },
+            "publisher": { "type": ["string", "null"] },
+            "doi":       { "type": ["string", "null"] },
+            "url":       { "type": ["string", "null"] },
+            "platform":  { "type": ["string", "null"] }
+          }
+        },
+
+        "bioscript": {
+          "type": "object",
+          "required": ["module", "manifests", "operations", "complexity"],
+          "properties": {
+            "module":     { "type": "string" },
+            "manifests":  { "type": "array", "items": { "type": "string" } },
+            "operations": { "type": "array", "items": { "type": "string" } },
+            "complexity": {
+              "type": "object",
+              "required": ["has_repeat", "has_branch", "has_split", "has_gradient", "num_steps"],
+              "properties": {
+                "has_repeat":   { "type": "boolean" },
+                "has_branch":   { "type": "boolean" },
+                "has_split":    { "type": "boolean" },
+                "has_gradient": { "type": "boolean" },
+                "num_steps":    { "type": "integer", "minimum": 0 }
+              }
+            }
+          }
+        },
+
+        "steps": {
+          "type": "object",
+          "required": ["items"],
+          "properties": {
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["id", "name", "inputs", "operation", "output"],
+                "properties": {
+                  "id":               { "type": "string" },
+                  "name":             { "type": "string" },
+                  "bb":               { "type": ["string", "null"] },
+                  "inputs":           { "type": "array", "items": { "type": "string" } },
+                  "operation":        { "type": "string" },
+                  "key_conditions":   { "type": ["object", "null"] },
+                  "output":           { "type": "string" },
+                  "detection_module": { "type": ["string", "null"] },
+                  "branch":           { "type": ["object", "null"] }
+                }
+              }
+            }
+          }
+        },
+
+        "cfg": {
+          "type": "object",
+          "properties": {
+            "basic_blocks": { "type": "array" },
+            "edges":        { "type": "array" }
+          }
+        },
+
+        "ir": {
+          "type": "object",
+          "properties": {
+            "content": { "type": ["string", "null"] }
+          }
+        },
+
+        "validation": {
+          "type": "object",
+          "required": ["validated", "validation_score", "validation_status"],
+          "properties": {
+            "validated":         { "type": "boolean" },
+            "validation_score":  { "type": "number" },
+            "validation_status": {
+              "type": "string",
+              "enum": ["pending_v2", "passed", "failed", "partial"]
+            }
+          }
+        },
+
+        "evidence": {
+          "type": "object",
+          "properties": {
+            "chemical_evidence":  { "type": "array" },
+            "operation_evidence": { "type": "array" },
+            "numeric_mismatches": { "type": "array" }
+          }
+        },
+
+        "notes": { "type": ["string", "null"] }
+      }
+    }
+  },
+
+  "additionalProperties": false
+}

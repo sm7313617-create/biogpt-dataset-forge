@@ -1,0 +1,34 @@
+name: Validate Dataset Schema
+
+on:
+  push:
+    branches: [ main, dev ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate schema file itself
+        run: python -c "import json; json.load(open('schema/biogpt_v3_optimum.json')); print('Schema file is valid JSON')"
+
+      - name: Run schema validator on sample data
+        run: |
+          if [ -d "tests/sample_data" ] && [ "$(ls -A tests/sample_data)" ]; then
+            python scripts/validate_schema.py --dataset tests/sample_data --errors-only
+          else
+            echo "No sample data found — skipping protocol validation"
+          fi
