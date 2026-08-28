@@ -33,7 +33,7 @@ def main():
             if ".bak" in jf.name:
                 continue
             try:
-                with open(jf) as f:
+                with open(jf, encoding="utf-8") as f:
                     d = json.load(f)
             except Exception:
                 continue
