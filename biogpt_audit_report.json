@@ -1,0 +1,5749 @@
+{
+  "audit_timestamp": "2026-08-29T07:37:28.124265+00:00",
+  "total_folders": 200,
+  "summary": {
+    "check1_bs_leaked_into_user": {
+      "failed": 111,
+      "folders": [
+        "ACE_Crispr_RAF1_Sorafenib",
+        "AU_Shih_Wheeler_Bay_Microbioreactor",
+        "Ahmadi2019_id2m",
+        "Ahmadi_ML_DMF_18FFDG_ofat",
+        "DMF_AP_FDP_Enzyme_Assay",
+        "DMF_Ribozyme_Cleavage",
+        "Direct_elisa",
+        "Droplet_Scale_Estrogen",
+        "EWOD_In_Vitro_Manipulation",
+        "FDG_Radiosynthesis_ofat",
+        "Fucosylation_Inhibition_DMF",
+        "Hemagglutination",
+        "Human_Plasma_Protein_Depletion",
+        "Husser_AIMS_Induction_BGL_SynBio",
+        "Indirect_elisa",
+        "Integrated_Mfselex",
+        "Jebrail_DMF_Proteomic_Processing",
+        "Leal_Alves_Multiplex_Sorter_Strain_Development",
+        "Lengen_Lentiviral",
+        "Maximize_Diagnostic_Tests",
+        "Microbial_Electroporation",
+        "Moazami_World_to_Chip_DMF",
+        "PCR",
+        "Particle_Based_Immunoassays",
+        "Picoliter_DNA_Sequencing",
+        "Protein_Extraction_Precipitation",
+        "Samlali_Hybrid_Microfluidics_Isoclone",
+        "Sandwich_elisa",
+        "Shih_Algae_Lipid_DMF_Screen",
+        "Shih_DBS_DMF_Nesi_MS",
+        "Shih_DMF_Cell_Impedance_Sensing",
+        "Shih_Versatile_DMF_Synbio",
+        "TriDrop_Electroporation",
+        "Zika_Virus_Diagnostic",
+        "abasiyanik2021_sars_cov2_saliva_detection",
+        "abasiyanik_dpla_ddpcr_septic_shock",
+        "ahmadi_2024_mab_discovery",
+        "albayrak_digital_pla_rtddpcr",
+        "bell_sperm_seq_library_generation",
+        "chen_concentrator_droplet_mmp_assay",
+        "choi_dmf_tsh_immunoassay",
+        "clelland_pcr_ddpcr",
+        "deng2025_d2_droplet_digital_recovery",
+        "dettinger_2018_lsim_single_cell",
+        "droplet_volume_measurement_beads",
+        "fobel_paper_dmf_digital_microfluidics",
+        "fuller_droplet_on_tape_dot",
+        "heinemann_uNIMS_enzyme_screening",
+        "hou_2015_dff_bacteremia",
+        "hou_margination_pathogen_removal_blood",
+        "jebrail_combinatorial_peptidomimetics_dmf",
+        "jebrail_dmf_evaporation_mgmt",
+        "jebrail_dmf_protein_precipitation",
+        "jebrail_macrocycle_dmf",
+        "jebrail_world_to_dmf_rna_extraction",
+        "junkin_single_cell_immune_dynamics",
+        "junkin_tay_singlecell_immune",
+        "kellogg_microfluidic_singlecell_pipeline",
+        "kellogg_nfkb_digital_signaling",
+        "kellogg_nfkb_tlr_nonintegrative",
+        "khoo_ctc_liquid_biopsy_drug_screening",
+        "khoo_ctc_microfluidic_cluster",
+        "kim2013_ngs_library_prep_dmf",
+        "kim_icp_multistage_brine_desalination",
+        "kim_immunomodulator_hts",
+        "ko_multiplexed_nanofluidic_concentration_immunoassay",
+        "kwak_icp_continuous_flow_concentrator",
+        "kwon_microfluidic_cell_retention_perfusion",
+        "lafreniere_attractive_design_dmf_spe",
+        "lee_nafion_proteomic_preconcentrator",
+        "lin2019_udpla_single_cell_protein_mrna",
+        "matthews_organoid_organoid_id",
+        "mei_dmf_plasma_protein_depletion",
+        "mercadovasquez_ultrashort_macrophage_nfkb",
+        "miller_dmf_immunoassay",
+        "mousa_dmf_estrogen_extraction",
+        "ng2012_dmf_immunoassay",
+        "ng2015_DISC_dmf",
+        "ng2015_dmf_rubella_immunoassay",
+        "ng_dmf_immunoassay_disc",
+        "northen_nims_mass_spectrometry",
+        "patel_dropgenie_dmf_crispr_screen",
+        "phan_fdseq_pfa_scrna",
+        "ramshani_ev_mirna_integrated_microfluidics",
+        "sarkar_microfluidic_probe_singlecell_analysis",
+        "schuster_organoid_drug_screening",
+        "schwarz_chemokine_migration_microfluidics",
+        "smitha_pillai_scadpl_breast_cancer",
+        "son2023_coculture_spatiotemporal",
+        "son_nfkb_dose_differentiation",
+        "son_spatiotemporal_nfkb_microfluidics",
+        "tay_nfkb_signaling_dynamic_range",
+        "vc0005_aav_ddpcr_quantification",
+        "venturelli_gut_microbiome_glv",
+        "vistain_proxseq_10x",
+        "vistain_proxseq_nature_methods_2022",
+        "wang2025_macrophage_memory",
+        "wang_2d_ief_cge_protein_separation",
+        "wang_sproxseq_germinal_center",
+        "warkiani_malaria_inertial_microfluidics",
+        "warkiani_membraneless_microfiltration",
+        "warkiani_spiral_ctc_enrichment",
+        "warkiani_spiral_ctc_isolation",
+        "watson_multilayer_hybrid_microfluidics_dmf",
+        "watterson_anaerobic_droplet_cultivation",
+        "watterson_anaerobic_droplet_gut_microbiome",
+        "xia_proxseq_computational_prediction",
+        "xie_droplet_paired_tag",
+        "yang_2011_dmf_spe_ppm",
+        "yin2020_denv_multiplexed_pcr",
+        "zhou_mcf7_deformability_impedance"
+      ]
+    },
+    "check2_assistant_not_verbatim_bs": {
+      "failed": 0,
+      "folders": []
+    },
+    "check3_user_missing_sections": {
+      "failed": 7,
+      "folders": [
+        "Blood_Plasma_Separation",
+        "CCEP_Reciprocating",
+        "Digital_Eloha",
+        "Digital_Isothermal_Cas13a_Assay",
+        "Human_Physiological_Fluids",
+        "Minute_Mammalian_Tissue",
+        "Particle_Based_Immunoassays"
+      ]
+    },
+    "check4_evidence_quotes_ir": {
+      "failed": 6,
+      "folders": [
+        "Shih_DBS_DMF_Nesi_MS",
+        "abasiyanik2021_sars_cov2_saliva_detection",
+        "northen_nims_mass_spectrometry",
+        "tay_nfkb_signaling_dynamic_range",
+        "warkiani_membraneless_microfiltration",
+        "yin2020_denv_multiplexed_pcr"
+      ]
+    },
+    "check5_ir_not_verbatim": {
+      "failed": 0,
+      "folders": []
+    },
+    "check6_filler_reagent_desc": {
+      "failed": 118,
+      "folders": [
+        "ACE_Crispr_RAF1_Sorafenib",
+        "AU_Shih_Wheeler_Bay_Microbioreactor",
+        "Ahmadi2019_id2m",
+        "Ahmadi_ML_DMF_18FFDG_ofat",
+        "Biology_Protocols",
+        "Competitive_elisa",
+        "DMF_AP_FDP_Enzyme_Assay",
+        "DMF_Ribozyme_Cleavage",
+        "Diazepam",
+        "Direct_elisa",
+        "Droplet_Scale_Estrogen",
+        "FDG_Radiosynthesis_ofat",
+        "Fucosylation_Inhibition_DMF",
+        "Hemagglutination",
+        "Heroin",
+        "Human_Plasma_Protein_Depletion",
+        "Husser_AIMS_Induction_BGL_SynBio",
+        "Indirect_elisa",
+        "Integrated_Mfselex",
+        "Jebrail_DMF_Proteomic_Processing",
+        "Leal_Alves_Multiplex_Sorter_Strain_Development",
+        "Lengen_Lentiviral",
+        "Maximize_Diagnostic_Tests",
+        "Microbial_Electroporation",
+        "Moazami_World_to_Chip_DMF",
+        "NADH_Oxidoreductase",
+        "PCR",
+        "Protein_Extraction_Precipitation",
+        "Samlali_Hybrid_Microfluidics_Isoclone",
+        "Sandwich_elisa",
+        "Shih_Algae_Lipid_DMF_Screen",
+        "Shih_DBS_DMF_Nesi_MS",
+        "Shih_DMF_Cell_Impedance_Sensing",
+        "Shih_Versatile_DMF_Synbio",
+        "TSH_Immunoassay",
+        "TriDrop_Electroporation",
+        "Tridrop_Transfection",
+        "Zika_Virus_Diagnostic",
+        "abasiyanik2021_sars_cov2_saliva_detection",
+        "abasiyanik_dpla_ddpcr_septic_shock",
+        "ahmadi_2024_mab_discovery",
+        "albayrak_digital_pla_rtddpcr",
+        "bell_sperm_seq_library_generation",
+        "chen_concentrator_droplet_mmp_assay",
+        "choi_dmf_tsh_immunoassay",
+        "clelland_pcr_ddpcr",
+        "deng2025_d2_droplet_digital_recovery",
+        "dettinger_2018_lsim_single_cell",
+        "fobel_paper_dmf_digital_microfluidics",
+        "fuller_droplet_on_tape_dot",
+        "heinemann_uNIMS_enzyme_screening",
+        "hou_2015_dff_bacteremia",
+        "hou_margination_pathogen_removal_blood",
+        "jebrail_combinatorial_peptidomimetics_dmf",
+        "jebrail_dmf_evaporation_mgmt",
+        "jebrail_dmf_protein_precipitation",
+        "jebrail_macrocycle_dmf",
+        "jebrail_world_to_dmf_rna_extraction",
+        "junkin_single_cell_immune_dynamics",
+        "junkin_tay_singlecell_immune",
+        "kellogg_microfluidic_singlecell_pipeline",
+        "kellogg_nfkb_digital_signaling",
+        "kellogg_nfkb_tlr_nonintegrative",
+        "khoo_ctc_liquid_biopsy_drug_screening",
+        "khoo_ctc_microfluidic_cluster",
+        "kim2013_ngs_library_prep_dmf",
+        "kim_icp_multistage_brine_desalination",
+        "kim_immunomodulator_hts",
+        "ko_multiplexed_nanofluidic_concentration_immunoassay",
+        "kwak_icp_continuous_flow_concentrator",
+        "kwon_microfluidic_cell_retention_perfusion",
+        "lafreniere_attractive_design_dmf_spe",
+        "lee_nafion_proteomic_preconcentrator",
+        "lin2019_udpla_single_cell_protein_mrna",
+        "matthews_organoid_organoid_id",
+        "mei_dmf_plasma_protein_depletion",
+        "mercadovasquez_ultrashort_macrophage_nfkb",
+        "miller_dmf_immunoassay",
+        "mousa_dmf_estrogen_extraction",
+        "ng2012_dmf_immunoassay",
+        "ng2015_DISC_dmf",
+        "ng2015_dmf_rubella_immunoassay",
+        "ng_dmf_immunoassay_disc",
+        "northen_nims_mass_spectrometry",
+        "patel_dropgenie_dmf_crispr_screen",
+        "patel_nfkb_computer_vision_single_cell",
+        "phan_fdseq_pfa_scrna",
+        "ramshani_ev_mirna_integrated_microfluidics",
+        "sarkar_microfluidic_probe_singlecell_analysis",
+        "schuster_organoid_drug_screening",
+        "schwarz_chemokine_migration_microfluidics",
+        "shamsi_dmf_ecl_mirna",
+        "smitha_pillai_scadpl_breast_cancer",
+        "son2023_coculture_spatiotemporal",
+        "son_nfkb_dose_differentiation",
+        "son_nfkb_stimulus_dynamics",
+        "son_spatiotemporal_nfkb_microfluidics",
+        "tay_nfkb_signaling_dynamic_range",
+        "vc0005_aav_ddpcr_quantification",
+        "venturelli_gut_microbiome_glv",
+        "vistain_proxseq_10x",
+        "vistain_proxseq_nature_methods_2022",
+        "wang2025_macrophage_memory",
+        "wang_2d_ief_cge_protein_separation",
+        "wang_nfkb_sequential_stimulation",
+        "wang_sproxseq_germinal_center",
+        "warkiani_malaria_inertial_microfluidics",
+        "warkiani_membraneless_microfiltration",
+        "warkiani_spiral_ctc_enrichment",
+        "warkiani_spiral_ctc_isolation",
+        "watson_multilayer_hybrid_microfluidics_dmf",
+        "watterson_anaerobic_droplet_cultivation",
+        "watterson_anaerobic_droplet_gut_microbiome",
+        "xia_proxseq_computational_prediction",
+        "xie_droplet_paired_tag",
+        "yang_2011_dmf_spe_ppm",
+        "yin2020_denv_multiplexed_pcr",
+        "zhou_mcf7_deformability_impedance"
+      ]
+    }
+  },
+  "per_folder": [
+    {
+      "folder": "ACCESS_Magnetofluidic_MOB_qPCR",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "ACE_Crispr_RAF1_Sorafenib",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "AU_Shih_Wheeler_Bay_Microbioreactor",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "Aerosol_Sampling",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Aerosol_ion_detection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Ahmadi2019_id2m",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Ahmadi_ML_DMF_18FFDG_ofat",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "Apoptosis",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Bcarmen_Cas13_Detection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Behavioral_Modeling_of_PCR",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Biology_Protocols",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "Blood_Plasma_Separation",
+      "checks_passed": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        3
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "INTERPRETATION:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "CCEP_Reciprocating",
+      "checks_passed": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        3
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "REAGENTS USED:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "CRISPR_MAGE_Droplet",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Cellspot_Multimodal",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Ciprofloxacin",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Cnb_Steroid_Extraction",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Competitive_elisa",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Cortisol_Droplet_ELISA",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "DBS_Succinylacetone",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "DMF_AP_FDP_Enzyme_Assay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 4
+        }
+      }
+    },
+    {
+      "folder": "DMF_Ecoli_Transformation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "DMF_Ribozyme_Cleavage",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 3
+        }
+      }
+    },
+    {
+      "folder": "DNA_Bisulfite_Conversion",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "DNA_Ligation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "DNA_Methylomes",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Detection_of_Cardiac_Markers",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Determination_of_Anthocyanin_Content",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Determination_of_Flavonoid_Content",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Diazepam",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "Digital_Eloha",
+      "checks_passed": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        3
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "INTERPRETATION:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Digital_Isothermal_Cas13a_Assay",
+      "checks_passed": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        3
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "INTERPRETATION:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Direct_elisa",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "Distance_Based_Detection_Nucleic_Acid",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Droplet_Antibiotic_MIC_Screen",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Droplet_Scale_Estrogen",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "EWOD_In_Vitro_Manipulation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        1
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Electrowetting_Realtime_Taqman_PCR",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Entrap_Conjugation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Enzymatic_Assay",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estimation_of_Ascorbic_Acid_Content",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estimation_of_DPPH_Free_Radical_Scavenging_Activity",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estimation_of_Hydrogen_Peroxide",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estimation_of_Lipid_Peroxides",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estimation_of_Total_Phenolic_Content",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estimation_of_Total_Soluble_Sugar",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Estradiol",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Exact2_TCA_Incubate",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Exact_Yeast_Competent_Cells",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "FDG_Radiosynthesis_ofat",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "Fentanyl",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Flexible_Transparent_Fabrication",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Fucosylation_Inhibition_DMF",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Glucose_Assay",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Glucose_Detection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Glycosylation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Hemagglutination",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "Hepatotoxicity",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Heroin",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Human_Physiological_Fluids",
+      "checks_passed": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        3
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "INTERPRETATION:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Human_Plasma_Protein_Depletion",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 4
+        }
+      }
+    },
+    {
+      "folder": "Husser_AIMS_Induction_BGL_SynBio",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "Immunocytochemistry_Single_Cells",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Immunoprecipitation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Indirect_elisa",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Integrated_Mfselex",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "Jebrail_DMF_Proteomic_Processing",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "Leal_Alves_Multiplex_Sorter_Strain_Development",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "Lengen_Lentiviral",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 16
+        }
+      }
+    },
+    {
+      "folder": "Loop_Mediated_Isothermal_Amplification",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Lysosomal_Storage_Disease",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Mage_Electrotransformation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Mammalian_Cell_Culture_Platform",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Maximize_Diagnostic_Tests",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 4
+        }
+      }
+    },
+    {
+      "folder": "Microbial_Electroporation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Minute_Mammalian_Tissue",
+      "checks_passed": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        3
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "INTERPRETATION:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Moazami_World_to_Chip_DMF",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "Mobile_uMD_Duplex_dELISA",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Morphine",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Mselex_Aptamer_Selection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Multiplex_Newborn_Screening",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "NADH_Oxidoreductase",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 4
+        }
+      }
+    },
+    {
+      "folder": "Nance_Horan_Syndrome",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Nucleic_Acid_Amplification",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Nucleic_Acid_Diagnostics",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Nucleosome_Immunoprecipitation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Omics",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Oxycodone",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "PCR",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "Particle_Based_Immunoassays",
+      "checks_passed": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        1,
+        3
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check3": {
+          "missing_sections": [
+            "INTERPRETATION:"
+          ]
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Peptidisc_MSBA",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Picoliter_DNA_Sequencing",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        1
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Picoliter_Droplet_Manipulation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Pipette_DDPCR",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Plasma_Metabolomics",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Point_Care_Testing",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Porous_Polymer_Monoliths",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Protein_Extraction_Precipitation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "Protein_Maldi_Stamping",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Proteomic_Processing",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Pyrosequencing",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Respiratory_RTQPCR",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Rubella_Infection_Detection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "SARS_Cov2_QPCR",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Samlali_Hybrid_Microfluidics_Isoclone",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 13
+        }
+      }
+    },
+    {
+      "folder": "Sandwich_elisa",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "Shih_Algae_Lipid_DMF_Screen",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "Shih_DBS_DMF_Nesi_MS",
+      "checks_passed": [
+        2,
+        3,
+        5
+      ],
+      "checks_failed": [
+        1,
+        4,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check4": {
+          "ir_quoted_evidence": [
+            {
+              "bs_operation": "preExtract1  = mix meoh1 with dbsPunch1 for 15m",
+              "source_quote": "IR op     : preExtract11[0] = mix(meoh11[0], dbsPunch11[0]) @ 900.0SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "preExtract2  = mix meoh2 with dbsPunch1 for 15m",
+              "source_quote": "IR op     : preExtract11[0] = mix(meoh11[0], dbsPunch11[0]) @ 900.0SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            }
+          ]
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Shih_DMF_Cell_Impedance_Sensing",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "Shih_Versatile_DMF_Synbio",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "Single_Cell_Analysis_and_Sorting",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Single_Molecule_Array_Assay",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "TNT_Explosive_Detection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "TSH_Immunoassay",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "Titration_Open_Surface",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "TriDrop_Electroporation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "Tridrop_Transfection",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 3
+        }
+      }
+    },
+    {
+      "folder": "XPORT_ENTRAP",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "Zika_Virus_Diagnostic",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "abasiyanik2021_sars_cov2_saliva_detection",
+      "checks_passed": [
+        2,
+        3,
+        5
+      ],
+      "checks_failed": [
+        1,
+        4,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check4": {
+          "ir_quoted_evidence": [
+            {
+              "bs_operation": "phaseMixture     = mix trizolLysate with chloroformVol for 15s",
+              "source_quote": "IR output  : heat(phaseMixture) @ 4.0 CELSIUS @ 900.0 SECOND",
+              "matched_patterns": [
+                "IR output",
+                "heat("
+              ]
+            },
+            {
+              "bs_operation": "heat phaseMixture at 4c for 15m",
+              "source_quote": "IR output  : heat(phaseMixture) @ 4.0 CELSIUS @ 900.0 SECOND",
+              "matched_patterns": [
+                "IR output",
+                "heat("
+              ]
+            }
+          ]
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 18
+        }
+      }
+    },
+    {
+      "folder": "abasiyanik_dpla_ddpcr_septic_shock",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 18
+        }
+      }
+    },
+    {
+      "folder": "ahmadi_2024_mab_discovery",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "albayrak_digital_pla_rtddpcr",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 16
+        }
+      }
+    },
+    {
+      "folder": "bell_sperm_seq_library_generation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 15
+        }
+      }
+    },
+    {
+      "folder": "chen_concentrator_droplet_mmp_assay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "choi_dmf_tsh_immunoassay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "clelland_pcr_ddpcr",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 19
+        }
+      }
+    },
+    {
+      "folder": "deng2025_d2_droplet_digital_recovery",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 21
+        }
+      }
+    },
+    {
+      "folder": "dettinger_2018_lsim_single_cell",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 14
+        }
+      }
+    },
+    {
+      "folder": "droplet_volume_measurement_beads",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "checks_failed": [
+        1
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        }
+      }
+    },
+    {
+      "folder": "fobel_paper_dmf_digital_microfluidics",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "fuller_droplet_on_tape_dot",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "heinemann_uNIMS_enzyme_screening",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "hou_2015_dff_bacteremia",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "hou_margination_pathogen_removal_blood",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "jebrail_combinatorial_peptidomimetics_dmf",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "jebrail_dmf_evaporation_mgmt",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "jebrail_dmf_protein_precipitation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 16
+        }
+      }
+    },
+    {
+      "folder": "jebrail_macrocycle_dmf",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "jebrail_world_to_dmf_rna_extraction",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "junkin_single_cell_immune_dynamics",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "junkin_tay_singlecell_immune",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "kellogg_microfluidic_singlecell_pipeline",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "kellogg_nfkb_digital_signaling",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "manifest "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "kellogg_nfkb_tlr_nonintegrative",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 13
+        }
+      }
+    },
+    {
+      "folder": "khoo_ctc_liquid_biopsy_drug_screening",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "khoo_ctc_microfluidic_cluster",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 20
+        }
+      }
+    },
+    {
+      "folder": "kim2013_ngs_library_prep_dmf",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "kim_icp_multistage_brine_desalination",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "kim_immunomodulator_hts",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 15
+        }
+      }
+    },
+    {
+      "folder": "ko_multiplexed_nanofluidic_concentration_immunoassay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "kwak_icp_continuous_flow_concentrator",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 13
+        }
+      }
+    },
+    {
+      "folder": "kwon_microfluidic_cell_retention_perfusion",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "lafreniere_attractive_design_dmf_spe",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 11
+        }
+      }
+    },
+    {
+      "folder": "lee_nafion_proteomic_preconcentrator",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 3
+        }
+      }
+    },
+    {
+      "folder": "lin2019_udpla_single_cell_protein_mrna",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 19
+        }
+      }
+    },
+    {
+      "folder": "matthews_organoid_organoid_id",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 11
+        }
+      }
+    },
+    {
+      "folder": "mei_dmf_plasma_protein_depletion",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "mercadovasquez_ultrashort_macrophage_nfkb",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 11
+        }
+      }
+    },
+    {
+      "folder": "miller_dmf_immunoassay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 5
+        }
+      }
+    },
+    {
+      "folder": "mousa_dmf_estrogen_extraction",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 6
+        }
+      }
+    },
+    {
+      "folder": "ng2012_dmf_immunoassay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "ng2015_DISC_dmf",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 18
+        }
+      }
+    },
+    {
+      "folder": "ng2015_dmf_rubella_immunoassay",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "ng_dmf_immunoassay_disc",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 21
+        }
+      }
+    },
+    {
+      "folder": "northen_nims_mass_spectrometry",
+      "checks_passed": [
+        2,
+        3,
+        5
+      ],
+      "checks_failed": [
+        1,
+        4,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check4": {
+          "ir_quoted_evidence": [
+            {
+              "bs_operation": "siliconWafer  = dispense 1 units of BoronSilicon",
+              "source_quote": "IR output   : etchedSurface1[0] = mix(siliconWafer1[0], etchSolution1[0]) @ 1800.0 SECOND",
+              "matched_patterns": [
+                "IR output",
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "etchSolution  = dispense 1 units of HydrofluoricAcid_Ethanol",
+              "source_quote": "IR output   : etchedSurface1[0] = mix(siliconWafer1[0], etchSolution1[0]) @ 1800.0 SECOND",
+              "matched_patterns": [
+                "IR output",
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "etchedSurface = mix siliconWafer with etchSolution for 30m",
+              "source_quote": "IR output   : etchedSurface1[0] = mix(siliconWafer1[0], etchSolution1[0]) @ 1800.0 SECOND",
+              "matched_patterns": [
+                "IR output",
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "heat etchedSurface at 25c for 30m",
+              "source_quote": "IR output   : etchedSurface1[0] = mix(siliconWafer1[0], etchSolution1[0]) @ 1800.0 SECOND",
+              "matched_patterns": [
+                "IR output",
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "nitrogenJet  = dispense 1 units of Nitrogen_Gas",
+              "source_quote": "nimsSurface1[0] = mix(loadedSurface1[0], nitrogenJet1[0]) @ 30.0 SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            }
+          ]
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 15
+        }
+      }
+    },
+    {
+      "folder": "patel_dropgenie_dmf_crispr_screen",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 17
+        }
+      }
+    },
+    {
+      "folder": "patel_nfkb_computer_vision_single_cell",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 8
+        }
+      }
+    },
+    {
+      "folder": "phan_fdseq_pfa_scrna",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 19
+        }
+      }
+    },
+    {
+      "folder": "ramshani_ev_mirna_integrated_microfluidics",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "sarkar_microfluidic_probe_singlecell_analysis",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 11
+        }
+      }
+    },
+    {
+      "folder": "schuster_organoid_drug_screening",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 15
+        }
+      }
+    },
+    {
+      "folder": "schwarz_chemokine_migration_microfluidics",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "shamsi_dmf_ecl_mirna",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "smitha_pillai_scadpl_breast_cancer",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 20
+        }
+      }
+    },
+    {
+      "folder": "son2023_coculture_spatiotemporal",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "son_nfkb_dose_differentiation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "son_nfkb_stimulus_dynamics",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "son_spatiotemporal_nfkb_microfluidics",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "tay_nfkb_signaling_dynamic_range",
+      "checks_passed": [
+        2,
+        3,
+        5
+      ],
+      "checks_failed": [
+        1,
+        4,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check4": {
+          "ir_quoted_evidence": [
+            {
+              "bs_operation": "primingPBS      = dispense 1 units of PBS",
+              "source_quote": "IR        : primingMix1[0] = mix(primingPBS1[0], primingPluronic1[0]) @ 300.0SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "primingPluronic = dispense 1 units of PluronicF127",
+              "source_quote": "IR        : primingMix1[0] = mix(primingPBS1[0], primingPluronic1[0]) @ 300.0SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "primingMix      = mix primingPBS with primingPluronic for 5m",
+              "source_quote": "IR        : primingMix1[0] = mix(primingPBS1[0], primingPluronic1[0]) @ 300.0SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "seededChamber   = mix nih3t3Cells with seedingMedia for 5s",
+              "source_quote": "IR        : seededChamber1[0] = mix(...) @ 5.0SECOND",
+              "matched_patterns": [
+                "mix("
+              ]
+            }
+          ]
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "vc0005_aav_ddpcr_quantification",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    },
+    {
+      "folder": "venturelli_gut_microbiome_glv",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 14
+        }
+      }
+    },
+    {
+      "folder": "vistain_proxseq_10x",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 24
+        }
+      }
+    },
+    {
+      "folder": "vistain_proxseq_nature_methods_2022",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 22
+        }
+      }
+    },
+    {
+      "folder": "wang2025_macrophage_memory",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 17
+        }
+      }
+    },
+    {
+      "folder": "wang_2d_ief_cge_protein_separation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 11
+        }
+      }
+    },
+    {
+      "folder": "wang_nfkb_sequential_stimulation",
+      "checks_passed": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        6
+      ],
+      "details": {
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 20
+        }
+      }
+    },
+    {
+      "folder": "wang_sproxseq_germinal_center",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 21
+        }
+      }
+    },
+    {
+      "folder": "warkiani_malaria_inertial_microfluidics",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "warkiani_membraneless_microfiltration",
+      "checks_passed": [
+        2,
+        3,
+        5
+      ],
+      "checks_failed": [
+        1,
+        4,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check4": {
+          "ir_quoted_evidence": [
+            {
+              "bs_operation": "primingPBS     = dispense 1 units of PBS",
+              "source_quote": "Operation : mix(primingBuffer, primingPBS) @ 20 s",
+              "matched_patterns": [
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "primingMix     = mix primingBuffer with primingPBS for 20s",
+              "source_quote": "Operation : mix(primingBuffer, primingPBS) @ 20 s",
+              "matched_patterns": [
+                "mix("
+              ]
+            },
+            {
+              "bs_operation": "choSuspension  = mix choCells with bsaBuffer1 for 10s",
+              "source_quote": "Operation : mix(choCells, bsaBuffer) @ 10 s",
+              "matched_patterns": [
+                "mix("
+              ]
+            }
+          ]
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 14
+        }
+      }
+    },
+    {
+      "folder": "warkiani_spiral_ctc_enrichment",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 18
+        }
+      }
+    },
+    {
+      "folder": "warkiani_spiral_ctc_isolation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 12
+        }
+      }
+    },
+    {
+      "folder": "watson_multilayer_hybrid_microfluidics_dmf",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 7
+        }
+      }
+    },
+    {
+      "folder": "watterson_anaerobic_droplet_cultivation",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= detect ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "watterson_anaerobic_droplet_gut_microbiome",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 11
+        }
+      }
+    },
+    {
+      "folder": "xia_proxseq_computational_prediction",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 15
+        }
+      }
+    },
+    {
+      "folder": "xie_droplet_paired_tag",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 29
+        }
+      }
+    },
+    {
+      "folder": "yang_2011_dmf_spe_ppm",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 10
+        }
+      }
+    },
+    {
+      "folder": "yin2020_denv_multiplexed_pcr",
+      "checks_passed": [
+        2,
+        3,
+        5
+      ],
+      "checks_failed": [
+        1,
+        4,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check4": {
+          "ir_quoted_evidence": [
+            {
+              "bs_operation": "heat lysed_sample at 25c for 120s",
+              "source_quote": "BioScript    : Abstracted as mix(TRIzol, 30s) -> mix(Chloroform, 60s) -> heat(25C, 120s)",
+              "matched_patterns": [
+                "mix(",
+                "heat("
+              ]
+            }
+          ]
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 19
+        }
+      }
+    },
+    {
+      "folder": "zhou_mcf7_deformability_impedance",
+      "checks_passed": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "checks_failed": [
+        1,
+        6
+      ],
+      "details": {
+        "check1": {
+          "matched_patterns": [
+            "dispense 1 units of",
+            "= mix ",
+            "= dispense ",
+            "dispose "
+          ]
+        },
+        "check2": {
+          "match": true
+        },
+        "check5": {
+          "match": true
+        },
+        "check6": {
+          "filler_count": 9
+        }
+      }
+    }
+  ],
+  "folders_fully_correct": 72,
+  "folders_with_any_issue": 128
+}
